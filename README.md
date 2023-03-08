@@ -3,3 +3,5 @@
 
 # メンバー
 [ことね](/kotone.md)
+
+[ふるしん](https://twitter.com/furusin_oriver)
