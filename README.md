@@ -7,3 +7,5 @@
 [ふるしん](https://twitter.com/furusin_oriver)
 
 [みつかわ](/mitsukawa.md)
+
+[おーのA](/ohnoa.md)
